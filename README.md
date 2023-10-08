@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaytipotgieter
+- 👋 Hi, I’m Kayti Martens 
 - 👀 I’m interested in building a fundamental understanding of software through hands on projects
 - 🌱 I’m currently studying software engeneering Oregon State University.
 - 💞️ I’m looking to collaborate on hackathons and portfolio projects.

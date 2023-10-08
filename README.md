@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kayti Martens 
+- 👋 Hi, I’m Catherine (Kayti) Martens 
 - 👀 Deeply interested in building a fundamental understanding of software through hands on projects
 - 🌱 Currently studying Software Engeneering Oregon State University
 - 🍎 Previously studied Linguistics at University of California, Berkeley
